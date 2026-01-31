@@ -1,0 +1,162 @@
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.csproj.AssemblyReference.cache
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.AssemblyInfoInputs.cache
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.AssemblyInfo.cs
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.csproj.CoreCompileInputs.cache
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\appsettings.Development.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\appsettings.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\webapi.staticwebassets.endpoints.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\webapi.exe
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\webapi.deps.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\webapi.runtimeconfig.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\webapi.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\webapi.pdb
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Azure.Core.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Azure.Identity.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\System.ClientModel.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\bin\Debug\net8.0\ormdb.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\scopedcss\bundle\webapi.styles.css
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\staticwebassets.build.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\staticwebassets.development.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.csproj.Up2Date
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\refint\webapi.dll
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.pdb
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\webapi.genruntimeconfig.cache
+C:\JL2\Curso QA\Cursos Sinergias\webapi\webapi\obj\Debug\net8.0\ref\webapi.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\appsettings.Development.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\appsettings.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\webapi.staticwebassets.endpoints.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\webapi.exe
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\webapi.deps.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\webapi.runtimeconfig.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\webapi.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\webapi.pdb
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Azure.Core.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Azure.Identity.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\System.ClientModel.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\bin\Debug\net8.0\ormdb.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.csproj.AssemblyReference.cache
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.AssemblyInfoInputs.cache
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.AssemblyInfo.cs
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.csproj.CoreCompileInputs.cache
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\scopedcss\bundle\webapi.styles.css
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\staticwebassets.build.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\staticwebassets.development.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.csproj.Up2Date
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\refint\webapi.dll
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.pdb
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\webapi.genruntimeconfig.cache
+C:\JL\AutomatizacionJL\Curso Sinergia\webapi\webapi\obj\Debug\net8.0\ref\webapi.dll

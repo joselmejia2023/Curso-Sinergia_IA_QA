@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\ormdb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0D19F-08D8-4327-A78E-ED73872112B8}|ormdb.csproj|c:\\jl\\automatizacionjl\\curso sinergia\\webapi\\ormdb\\models\\database\\ordenrecibocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A0D19F-08D8-4327-A78E-ED73872112B8}|ormdb.csproj|solutionrelative:models\\database\\ordenrecibocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0D19F-08D8-4327-A78E-ED73872112B8}|ormdb.csproj|c:\\jl\\automatizacionjl\\curso sinergia\\webapi\\ormdb\\models\\database\\ordenrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A0D19F-08D8-4327-A78E-ED73872112B8}|ormdb.csproj|solutionrelative:models\\database\\ordenrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0D19F-08D8-4327-A78E-ED73872112B8}|ormdb.csproj|c:\\jl\\automatizacionjl\\curso sinergia\\webapi\\ormdb\\ormdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54A0D19F-08D8-4327-A78E-ED73872112B8}|ormdb.csproj|solutionrelative:ormdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0D19F-08D8-4327-A78E-ED73872112B8}|ormdb.csproj|c:\\jl\\automatizacionjl\\curso sinergia\\webapi\\ormdb\\models\\database\\centrosdistribucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A0D19F-08D8-4327-A78E-ED73872112B8}|ormdb.csproj|solutionrelative:models\\database\\centrosdistribucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenRecibo.cs",
+              "DocumentMoniker": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\ormdb\\Models\\Database\\OrdenRecibo.cs",
+              "RelativeDocumentMoniker": "Models\\Database\\OrdenRecibo.cs",
+              "ToolTip": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\ormdb\\Models\\Database\\OrdenRecibo.cs",
+              "RelativeToolTip": "Models\\Database\\OrdenRecibo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T04:44:54.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdenreciboContext.cs",
+              "DocumentMoniker": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\ormdb\\Models\\Database\\OrdenreciboContext.cs",
+              "RelativeDocumentMoniker": "Models\\Database\\OrdenreciboContext.cs",
+              "ToolTip": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\ormdb\\Models\\Database\\OrdenreciboContext.cs",
+              "RelativeToolTip": "Models\\Database\\OrdenreciboContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T04:44:48.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ormdb.csproj",
+              "DocumentMoniker": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\ormdb\\ormdb.csproj",
+              "RelativeDocumentMoniker": "ormdb.csproj",
+              "ToolTip": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\ormdb\\ormdb.csproj",
+              "RelativeToolTip": "ormdb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-25T04:18:49.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CentrosDistribucion.cs",
+              "DocumentMoniker": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\ormdb\\Models\\Database\\CentrosDistribucion.cs",
+              "RelativeDocumentMoniker": "Models\\Database\\CentrosDistribucion.cs",
+              "ToolTip": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\ormdb\\Models\\Database\\CentrosDistribucion.cs",
+              "RelativeToolTip": "Models\\Database\\CentrosDistribucion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T03:52:16.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

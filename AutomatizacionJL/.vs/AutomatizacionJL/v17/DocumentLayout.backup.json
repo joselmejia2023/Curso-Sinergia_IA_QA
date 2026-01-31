@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|c:\\users\\jose.mejia.grupodifare\\source\\repos\\automatizacionjl\\automatizacionjl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|solutionrelative:automatizacionjl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|c:\\users\\jose.mejia.grupodifare\\source\\repos\\automatizacionjl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|c:\\users\\jose.mejia.grupodifare\\source\\repos\\automatizacionjl\\espalindromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|solutionrelative:espalindromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|c:\\users\\jose.mejia.grupodifare\\source\\repos\\automatizacionjl\\datosparavalidarpalindromos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|solutionrelative:datosparavalidarpalindromos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|c:\\users\\jose.mejia.grupodifare\\source\\repos\\automatizacionjl\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605E150C-5EDA-4460-94C3-60EAF560FAC4}|AutomatizacionJL.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T14:59:28.611Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutomatizacionJL",
+              "DocumentMoniker": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\AutomatizacionJL.csproj",
+              "RelativeDocumentMoniker": "AutomatizacionJL.csproj",
+              "ToolTip": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\AutomatizacionJL.csproj",
+              "RelativeToolTip": "AutomatizacionJL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-22T19:08:58.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatosParaValidarPalindromos.cs",
+              "DocumentMoniker": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\DatosParaValidarPalindromos.cs",
+              "RelativeDocumentMoniker": "DatosParaValidarPalindromos.cs",
+              "ToolTip": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\DatosParaValidarPalindromos.cs",
+              "RelativeToolTip": "DatosParaValidarPalindromos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:02:28.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EsPalindromo.cs",
+              "DocumentMoniker": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\EsPalindromo.cs",
+              "RelativeDocumentMoniker": "EsPalindromo.cs",
+              "ToolTip": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\EsPalindromo.cs",
+              "RelativeToolTip": "EsPalindromo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:57:00.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\jose.mejia.GRUPODIFARE\\source\\repos\\AutomatizacionJL\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:49:23.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|c:\\jl\\automatizacionjl\\curso sinergia\\webapi\\webapi\\controllers\\ordenrecibocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|solutionrelative:controllers\\ordenrecibocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|c:\\jl\\automatizacionjl\\curso sinergia\\webapi\\webapi\\service\\servicesordenrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|solutionrelative:service\\servicesordenrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|c:\\jl\\automatizacionjl\\curso sinergia\\webapi\\webapi\\da\\datarepositoryordenrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|solutionrelative:da\\datarepositoryordenrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|c:\\jl\\automatizacionjl\\curso sinergia\\webapi\\webapi\\interface\\iordenrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|solutionrelative:interface\\iordenrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|c:\\jl\\automatizacionjl\\curso sinergia\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A825AAE-5E82-4C95-988C-DF69D4C21453}|webapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T02:57:09.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdenReciboController.cs",
+              "DocumentMoniker": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\Controllers\\OrdenReciboController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdenReciboController.cs",
+              "ToolTip": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\Controllers\\OrdenReciboController.cs",
+              "RelativeToolTip": "Controllers\\OrdenReciboController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:47:04.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IordenRecibo.cs",
+              "DocumentMoniker": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\Interface\\IordenRecibo.cs",
+              "RelativeDocumentMoniker": "Interface\\IordenRecibo.cs",
+              "ToolTip": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\Interface\\IordenRecibo.cs",
+              "RelativeToolTip": "Interface\\IordenRecibo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T04:53:45.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataRepositoryOrdenRecibo.cs",
+              "DocumentMoniker": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\DA\\DataRepositoryOrdenRecibo.cs",
+              "RelativeDocumentMoniker": "DA\\DataRepositoryOrdenRecibo.cs",
+              "ToolTip": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\DA\\DataRepositoryOrdenRecibo.cs",
+              "RelativeToolTip": "DA\\DataRepositoryOrdenRecibo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T03:48:03.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicesOrdenRecibo.cs",
+              "DocumentMoniker": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\Service\\ServicesOrdenRecibo.cs",
+              "RelativeDocumentMoniker": "Service\\ServicesOrdenRecibo.cs",
+              "ToolTip": "C:\\JL\\AutomatizacionJL\\Curso Sinergia\\webapi\\webapi\\Service\\ServicesOrdenRecibo.cs",
+              "RelativeToolTip": "Service\\ServicesOrdenRecibo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T02:37:34.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
