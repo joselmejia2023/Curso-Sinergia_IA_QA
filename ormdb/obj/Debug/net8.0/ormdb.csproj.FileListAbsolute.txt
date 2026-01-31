@@ -1,0 +1,14 @@
+C:\JL\AutomatizacionJL\WebApi\ormdb\bin\Debug\net8.0\ormdb.deps.json
+C:\JL\AutomatizacionJL\WebApi\ormdb\bin\Debug\net8.0\ormdb.runtimeconfig.json
+C:\JL\AutomatizacionJL\WebApi\ormdb\bin\Debug\net8.0\ormdb.dll
+C:\JL\AutomatizacionJL\WebApi\ormdb\bin\Debug\net8.0\ormdb.pdb
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\ormdb.csproj.AssemblyReference.cache
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\ormdb.GeneratedMSBuildEditorConfig.editorconfig
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\ormdb.AssemblyInfoInputs.cache
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\ormdb.AssemblyInfo.cs
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\ormdb.csproj.CoreCompileInputs.cache
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\ormdb.dll
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\refint\ormdb.dll
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\ormdb.pdb
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\ormdb.genruntimeconfig.cache
+C:\JL\AutomatizacionJL\WebApi\ormdb\obj\Debug\net8.0\ref\ormdb.dll
